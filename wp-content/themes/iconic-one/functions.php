@@ -335,4 +335,3 @@ if ( is_admin() && isset($_GET['activated'] ) && $pagenow ==	"themes.php" )
 
 require_once( get_template_directory() . '/inc/iconic-one-options.php' );
 
-
